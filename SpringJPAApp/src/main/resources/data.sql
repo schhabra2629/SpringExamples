@@ -1,0 +1,1 @@
+insert into Computer values(1,'Toshiba','intel');
